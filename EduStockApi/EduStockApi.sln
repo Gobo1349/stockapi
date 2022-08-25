@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{B14D670F-8CFF-44EB-9DD5-1B546C5834A8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "common", "common", "{38281065-DDBC-4508-A5BF-8A3813AB8FE4}"
+	ProjectSection(SolutionItems) = preProject
+		tests\readme.md = tests\readme.md
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{999BE002-187A-4847-9CCD-263AB34F5DD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OzonEduStockApi", "src\OzonEduStockApi\OzonEduStockApi.csproj", "{3BAA9F67-7FDB-40BE-8BEB-9F7DBAFEC866}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3BAA9F67-7FDB-40BE-8BEB-9F7DBAFEC866} = {B14D670F-8CFF-44EB-9DD5-1B546C5834A8}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BAA9F67-7FDB-40BE-8BEB-9F7DBAFEC866}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BAA9F67-7FDB-40BE-8BEB-9F7DBAFEC866}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BAA9F67-7FDB-40BE-8BEB-9F7DBAFEC866}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BAA9F67-7FDB-40BE-8BEB-9F7DBAFEC866}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

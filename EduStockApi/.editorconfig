@@ -1,0 +1,11 @@
+﻿[*]
+
+indent_style = space
+
+[*.cs]
+indent_size = 4
+tab_width = 4
+end_of_line = crlf
+
+[*.csproj]
+indent_size = 4
