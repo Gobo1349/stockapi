@@ -3,7 +3,7 @@ using Microsoft.Extensions.Hosting;
 using stockapi;
 
 CreateHostBuilder(args).Build().Run(); // создает хост - все компоненты, в т ч сервер, и конфигурации 
-// new branch?
+// new branch!
 // метод main генерируется сам 
 
 // задает точку входа в приложение
