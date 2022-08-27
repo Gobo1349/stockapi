@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wOP5SwW9JQ9yWJpRFPu/AIjGU9voKqCgkf+pLyRkZuj0rXybRWeNpPhHYbS9zydxL0ojAEQdSqpPuzu1kZMGrQ==",
+  "dgSpecHash": "CUynX0K13wx/xqqzXGTjVXcDV7rbgpizApA0M80j5ThuF+K9wflMyZx6ad7797L4ol/BcIvnJIualaGmS4Oizg==",
   "success": true,
   "projectFilePath": "C:\\Users\\misamsonov\\RiderProjects\\EduStockApi\\src\\OzonEduStockApi\\OzonEduStockApi.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\misamsonov\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
-    "C:\\Users\\misamsonov\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\misamsonov\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
-    "C:\\Users\\misamsonov\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
-    "C:\\Users\\misamsonov\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
-    "C:\\Users\\misamsonov\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
