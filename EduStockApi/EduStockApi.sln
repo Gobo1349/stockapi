@@ -6,6 +6,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "common", "common", "{382810
 	ProjectSection(SolutionItems) = preProject
 		tests\readme.md = tests\readme.md
 		.editorconfig = .editorconfig
+		dockerfile = dockerfile
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{999BE002-187A-4847-9CCD-263AB34F5DD9}"
