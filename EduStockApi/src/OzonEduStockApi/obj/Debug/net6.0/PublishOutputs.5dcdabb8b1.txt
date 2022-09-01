@@ -1,0 +1,11 @@
+C:\Users\misamsonov\RiderProjects\EduStockApi\src\OzonEduStockApi\bin\Debug\net6.0\publish\OzonEduStockApi.exe
+C:\Users\misamsonov\RiderProjects\EduStockApi\src\OzonEduStockApi\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Users\misamsonov\RiderProjects\EduStockApi\src\OzonEduStockApi\bin\Debug\net6.0\publish\appsettings.json
+C:\Users\misamsonov\RiderProjects\EduStockApi\src\OzonEduStockApi\bin\Debug\net6.0\publish\OzonEduStockApi.dll
+C:\Users\misamsonov\RiderProjects\EduStockApi\src\OzonEduStockApi\bin\Debug\net6.0\publish\OzonEduStockApi.deps.json
+C:\Users\misamsonov\RiderProjects\EduStockApi\src\OzonEduStockApi\bin\Debug\net6.0\publish\OzonEduStockApi.runtimeconfig.json
+C:\Users\misamsonov\RiderProjects\EduStockApi\src\OzonEduStockApi\bin\Debug\net6.0\publish\OzonEduStockApi.pdb
+C:\Users\misamsonov\RiderProjects\EduStockApi\src\OzonEduStockApi\bin\Debug\net6.0\publish\Microsoft.OpenApi.dll
+C:\Users\misamsonov\RiderProjects\EduStockApi\src\OzonEduStockApi\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\misamsonov\RiderProjects\EduStockApi\src\OzonEduStockApi\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\misamsonov\RiderProjects\EduStockApi\src\OzonEduStockApi\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
