@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LbwhOQ0r/pa0vzYTNArvPwo01v1yzmLHGZftKeawSeDRZ9QfbH58fgwdPic5xVc2YLlRryLTVEUBA0bVuBBr3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\misamsonov\\RiderProjects\\EduStockApi\\src\\stockapi.Domain\\stockapi.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\misamsonov\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

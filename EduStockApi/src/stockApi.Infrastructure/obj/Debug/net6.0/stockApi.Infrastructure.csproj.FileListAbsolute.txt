@@ -1,0 +1,15 @@
+C:\Users\misamsonov\RiderProjects\EduStockApi\src\stockApi.Infrastructure\bin\Debug\net6.0\stockApi.Infrastructure.deps.json
+C:\Users\misamsonov\RiderProjects\EduStockApi\src\stockApi.Infrastructure\bin\Debug\net6.0\stockApi.Infrastructure.dll
+C:\Users\misamsonov\RiderProjects\EduStockApi\src\stockApi.Infrastructure\bin\Debug\net6.0\stockApi.Infrastructure.pdb
+C:\Users\misamsonov\RiderProjects\EduStockApi\src\stockApi.Infrastructure\bin\Debug\net6.0\stockapi.Domain.dll
+C:\Users\misamsonov\RiderProjects\EduStockApi\src\stockApi.Infrastructure\bin\Debug\net6.0\stockapi.Domain.pdb
+C:\Users\misamsonov\RiderProjects\EduStockApi\src\stockApi.Infrastructure\obj\Debug\net6.0\stockApi.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\misamsonov\RiderProjects\EduStockApi\src\stockApi.Infrastructure\obj\Debug\net6.0\stockApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misamsonov\RiderProjects\EduStockApi\src\stockApi.Infrastructure\obj\Debug\net6.0\stockApi.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\misamsonov\RiderProjects\EduStockApi\src\stockApi.Infrastructure\obj\Debug\net6.0\stockApi.Infrastructure.AssemblyInfo.cs
+C:\Users\misamsonov\RiderProjects\EduStockApi\src\stockApi.Infrastructure\obj\Debug\net6.0\stockApi.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\misamsonov\RiderProjects\EduStockApi\src\stockApi.Infrastructure\obj\Debug\net6.0\stockApi.Infrastructure.csproj.CopyComplete
+C:\Users\misamsonov\RiderProjects\EduStockApi\src\stockApi.Infrastructure\obj\Debug\net6.0\stockApi.Infrastructure.dll
+C:\Users\misamsonov\RiderProjects\EduStockApi\src\stockApi.Infrastructure\obj\Debug\net6.0\refint\stockApi.Infrastructure.dll
+C:\Users\misamsonov\RiderProjects\EduStockApi\src\stockApi.Infrastructure\obj\Debug\net6.0\stockApi.Infrastructure.pdb
+C:\Users\misamsonov\RiderProjects\EduStockApi\src\stockApi.Infrastructure\obj\Debug\net6.0\ref\stockApi.Infrastructure.dll

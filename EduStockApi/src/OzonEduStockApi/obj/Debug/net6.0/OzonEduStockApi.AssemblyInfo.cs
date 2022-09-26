@@ -12,11 +12,11 @@ using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("OzonEduStockApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyFileVersionAttribute("5.5.2.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("5.5.2")]
 [assembly: System.Reflection.AssemblyProductAttribute("OzonEduStockApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OzonEduStockApi")]
-[assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+[assembly: System.Reflection.AssemblyVersionAttribute("5.5.2.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
 

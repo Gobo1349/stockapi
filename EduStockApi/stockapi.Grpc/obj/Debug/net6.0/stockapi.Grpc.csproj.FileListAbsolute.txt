@@ -1,0 +1,12 @@
+C:\Users\misamsonov\RiderProjects\EduStockApi\stockapi.Grpc\bin\Debug\net6.0\stockapi.Grpc.deps.json
+C:\Users\misamsonov\RiderProjects\EduStockApi\stockapi.Grpc\bin\Debug\net6.0\stockapi.Grpc.dll
+C:\Users\misamsonov\RiderProjects\EduStockApi\stockapi.Grpc\bin\Debug\net6.0\stockapi.Grpc.pdb
+C:\Users\misamsonov\RiderProjects\EduStockApi\stockapi.Grpc\obj\Debug\net6.0\stockapi.Grpc.csproj.AssemblyReference.cache
+C:\Users\misamsonov\RiderProjects\EduStockApi\stockapi.Grpc\obj\Debug\net6.0\stockapi.Grpc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misamsonov\RiderProjects\EduStockApi\stockapi.Grpc\obj\Debug\net6.0\stockapi.Grpc.AssemblyInfoInputs.cache
+C:\Users\misamsonov\RiderProjects\EduStockApi\stockapi.Grpc\obj\Debug\net6.0\stockapi.Grpc.AssemblyInfo.cs
+C:\Users\misamsonov\RiderProjects\EduStockApi\stockapi.Grpc\obj\Debug\net6.0\stockapi.Grpc.csproj.CoreCompileInputs.cache
+C:\Users\misamsonov\RiderProjects\EduStockApi\stockapi.Grpc\obj\Debug\net6.0\stockapi.Grpc.dll
+C:\Users\misamsonov\RiderProjects\EduStockApi\stockapi.Grpc\obj\Debug\net6.0\refint\stockapi.Grpc.dll
+C:\Users\misamsonov\RiderProjects\EduStockApi\stockapi.Grpc\obj\Debug\net6.0\stockapi.Grpc.pdb
+C:\Users\misamsonov\RiderProjects\EduStockApi\stockapi.Grpc\obj\Debug\net6.0\ref\stockapi.Grpc.dll

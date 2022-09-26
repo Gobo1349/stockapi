@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>stockapi.HttpModels</id>
+    <version>2.0.0</version>
+    <authors>stockapi.HttpModels</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Google.Protobuf" version="3.21.5" exclude="Build,Analyzers" />
+        <dependency id="Grpc.AspNetCore" version="2.49.0-pre1" exclude="Build,Analyzers" />
+        <dependency id="Grpc.Net.Client" version="2.49.0-pre1" exclude="Build,Analyzers" />
+        <dependency id="Swashbuckle.AspNetCore" version="6.4.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\misamsonov\RiderProjects\EduStockApi\src\stockapi.HttpModels\bin\Debug\net6.0\stockapi.HttpModels.dll" target="lib\net6.0\stockapi.HttpModels.dll" />
+  </files>
+</package>

@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Hosting;
 using stockapi;
+using stockapi.Infrastructure;
 
 CreateHostBuilder(args).Build().Run(); // создает хост - все компоненты, в т ч сервер, и конфигурации 
 // new branch!
@@ -14,4 +15,5 @@ static IHostBuilder CreateHostBuilder(string[] args)
             {
                 webBuilder.UseStartup<Startup>();
             }
-        );
+        ).AddInfrastructure(); // добавляем инфраструктуру (MW) на уровне Program 
+    

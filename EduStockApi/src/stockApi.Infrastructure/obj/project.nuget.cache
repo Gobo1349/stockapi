@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "33+WWVtFE4PyASBz4x0COTSVOJY8L58QTXEu5H2qTqMJXAaO0Xqj3g02YVIJQ7q7dEj0mj2AH+5YGZGrmlokrw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\misamsonov\\RiderProjects\\EduStockApi\\src\\stockApi.Infrastructure\\stockApi.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\misamsonov\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\misamsonov\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\misamsonov\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

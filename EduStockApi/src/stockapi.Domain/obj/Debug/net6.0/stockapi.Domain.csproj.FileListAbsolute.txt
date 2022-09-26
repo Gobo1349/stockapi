@@ -1,0 +1,12 @@
+C:\Users\misamsonov\RiderProjects\EduStockApi\src\stockapi.Domain\obj\Debug\net6.0\stockapi.Domain.csproj.AssemblyReference.cache
+C:\Users\misamsonov\RiderProjects\EduStockApi\src\stockapi.Domain\obj\Debug\net6.0\stockapi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misamsonov\RiderProjects\EduStockApi\src\stockapi.Domain\obj\Debug\net6.0\stockapi.Domain.AssemblyInfoInputs.cache
+C:\Users\misamsonov\RiderProjects\EduStockApi\src\stockapi.Domain\obj\Debug\net6.0\stockapi.Domain.AssemblyInfo.cs
+C:\Users\misamsonov\RiderProjects\EduStockApi\src\stockapi.Domain\obj\Debug\net6.0\stockapi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\misamsonov\RiderProjects\EduStockApi\src\stockapi.Domain\bin\Debug\net6.0\stockapi.Domain.deps.json
+C:\Users\misamsonov\RiderProjects\EduStockApi\src\stockapi.Domain\bin\Debug\net6.0\stockapi.Domain.dll
+C:\Users\misamsonov\RiderProjects\EduStockApi\src\stockapi.Domain\bin\Debug\net6.0\stockapi.Domain.pdb
+C:\Users\misamsonov\RiderProjects\EduStockApi\src\stockapi.Domain\obj\Debug\net6.0\stockapi.Domain.dll
+C:\Users\misamsonov\RiderProjects\EduStockApi\src\stockapi.Domain\obj\Debug\net6.0\refint\stockapi.Domain.dll
+C:\Users\misamsonov\RiderProjects\EduStockApi\src\stockapi.Domain\obj\Debug\net6.0\stockapi.Domain.pdb
+C:\Users\misamsonov\RiderProjects\EduStockApi\src\stockapi.Domain\obj\Debug\net6.0\ref\stockapi.Domain.dll
