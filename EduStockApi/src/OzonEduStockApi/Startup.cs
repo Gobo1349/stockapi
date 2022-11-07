@@ -16,7 +16,7 @@ using stockapi.GrpcServices;
 using stockapi.Infrastructure;
 using stockApi.Infrastructure.Extensions;
 using stockapi.Services;
-
+// last version 
 namespace stockapi
 {
     public class Startup // конфигурирует хост - он содержит элементы для обработки запроса
