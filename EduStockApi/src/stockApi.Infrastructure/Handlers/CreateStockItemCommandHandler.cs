@@ -16,9 +16,9 @@ public class CreateStockItemCommandHandler : IRequestHandler<CreateStockItemComm
     // создаем новый товар - нужно проверить, что таких нет - бизнес на уровне инфраструктуры - бизнес модель прозрачна 
     public async Task<int> Handle(CreateStockItemCommand request, CancellationToken cancellationToken)
     {
-        var stockInDb = await _stockItemRepository.FindByIdAsync(new Sku(request.Sku), cancellationToken);
-        if (stockInDb is not null)
-            throw new Exception($"StockItem with sku {request.Sku} already exists");
+     //   var stockInDb = await _stockItemRepository.FindByIdAsync(new Sku(request.Sku), cancellationToken);
+     //   if (stockInDb is not null)
+     //       throw new Exception($"StockItem with sku {request.Sku} already exists");
 
         var newStockItem = new StockItem(
             new Sku(request.Sku),

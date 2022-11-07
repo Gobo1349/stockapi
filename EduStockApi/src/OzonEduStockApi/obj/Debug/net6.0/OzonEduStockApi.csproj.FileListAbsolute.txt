@@ -42,3 +42,5 @@ C:\Users\misamsonov\RiderProjects\EduStockApi\src\OzonEduStockApi\bin\Debug\net6
 C:\Users\misamsonov\RiderProjects\EduStockApi\src\OzonEduStockApi\bin\Debug\net6.0\stockApi.Infrastructure.pdb
 C:\Users\misamsonov\RiderProjects\EduStockApi\src\OzonEduStockApi\bin\Debug\net6.0\stockapi.Domain.pdb
 C:\Users\misamsonov\RiderProjects\EduStockApi\src\OzonEduStockApi\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\misamsonov\RiderProjects\EduStockApi\src\OzonEduStockApi\bin\Debug\net6.0\OzonEduStockApi.xml
+C:\Users\misamsonov\RiderProjects\EduStockApi\src\OzonEduStockApi\obj\Debug\net6.0\OzonEduStockApi.xml

@@ -222,7 +222,8 @@
       "System.Memory/4.5.3": {},
       "stockapi.Domain/1.0.0": {
         "dependencies": {
-          "MediatR": "9.0.0"
+          "MediatR": "9.0.0",
+          "stockapi.HttpModels": "2.0.0"
         },
         "runtime": {
           "stockapi.Domain.dll": {}

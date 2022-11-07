@@ -1,1 +1,19 @@
-﻿
+﻿version: '3.8'
+services:
+  stock-api:
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    ports: 
+      - "5070:5000"
+      - "5072:5002"
+  
+  stock-api-db:
+    image: postgres:alpine
+    ports: 
+      - "5426:5432"
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: stockapipassword 
+      POSTGRES_DB: stockapi
+    command: "-c log_statement=all"

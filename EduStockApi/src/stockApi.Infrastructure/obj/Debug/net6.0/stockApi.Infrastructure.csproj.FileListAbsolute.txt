@@ -13,3 +13,5 @@ C:\Users\misamsonov\RiderProjects\EduStockApi\src\stockApi.Infrastructure\obj\De
 C:\Users\misamsonov\RiderProjects\EduStockApi\src\stockApi.Infrastructure\obj\Debug\net6.0\refint\stockApi.Infrastructure.dll
 C:\Users\misamsonov\RiderProjects\EduStockApi\src\stockApi.Infrastructure\obj\Debug\net6.0\stockApi.Infrastructure.pdb
 C:\Users\misamsonov\RiderProjects\EduStockApi\src\stockApi.Infrastructure\obj\Debug\net6.0\ref\stockApi.Infrastructure.dll
+C:\Users\misamsonov\RiderProjects\EduStockApi\src\stockApi.Infrastructure\bin\Debug\net6.0\stockapi.HttpModels.dll
+C:\Users\misamsonov\RiderProjects\EduStockApi\src\stockApi.Infrastructure\bin\Debug\net6.0\stockapi.HttpModels.pdb

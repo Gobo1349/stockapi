@@ -9,5 +9,9 @@
     <ItemGroup>
         <PackageReference Include="MediatR" Version="9.0.0" />
     </ItemGroup>
+    
+    <ItemGroup>
+      <ProjectReference Include="..\stockapi.HttpModels\stockapi.HttpModels.csproj" />
+    </ItemGroup>
 
 </Project>

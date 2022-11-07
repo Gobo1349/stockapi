@@ -1,12 +1,36 @@
 {
   "version": 2,
-  "dgSpecHash": "33+WWVtFE4PyASBz4x0COTSVOJY8L58QTXEu5H2qTqMJXAaO0Xqj3g02YVIJQ7q7dEj0mj2AH+5YGZGrmlokrw==",
+  "dgSpecHash": "AdSUnStOuogNxV/hfBHDeYSzOfzxkfKvm8x/k3D71KTtBZ8Eb1KMXm5ZDwnwEcAvOJe2kw4kojkGssf6p9WlJg==",
   "success": true,
   "projectFilePath": "C:\\Users\\misamsonov\\RiderProjects\\EduStockApi\\src\\stockApi.Infrastructure\\stockApi.Infrastructure.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\misamsonov\\.nuget\\packages\\google.protobuf\\3.21.5\\google.protobuf.3.21.5.nupkg.sha512",
+    "C:\\Users\\misamsonov\\.nuget\\packages\\grpc.aspnetcore\\2.49.0-pre1\\grpc.aspnetcore.2.49.0-pre1.nupkg.sha512",
+    "C:\\Users\\misamsonov\\.nuget\\packages\\grpc.aspnetcore.server\\2.49.0-pre1\\grpc.aspnetcore.server.2.49.0-pre1.nupkg.sha512",
+    "C:\\Users\\misamsonov\\.nuget\\packages\\grpc.aspnetcore.server.clientfactory\\2.49.0-pre1\\grpc.aspnetcore.server.clientfactory.2.49.0-pre1.nupkg.sha512",
+    "C:\\Users\\misamsonov\\.nuget\\packages\\grpc.core.api\\2.49.0-pre1\\grpc.core.api.2.49.0-pre1.nupkg.sha512",
+    "C:\\Users\\misamsonov\\.nuget\\packages\\grpc.net.client\\2.49.0-pre1\\grpc.net.client.2.49.0-pre1.nupkg.sha512",
+    "C:\\Users\\misamsonov\\.nuget\\packages\\grpc.net.clientfactory\\2.49.0-pre1\\grpc.net.clientfactory.2.49.0-pre1.nupkg.sha512",
+    "C:\\Users\\misamsonov\\.nuget\\packages\\grpc.net.common\\2.49.0-pre1\\grpc.net.common.2.49.0-pre1.nupkg.sha512",
     "C:\\Users\\misamsonov\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\misamsonov\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
-    "C:\\Users\\misamsonov\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512"
+    "C:\\Users\\misamsonov\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\misamsonov\\.nuget\\packages\\microsoft.extensions.configuration\\3.0.3\\microsoft.extensions.configuration.3.0.3.nupkg.sha512",
+    "C:\\Users\\misamsonov\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.0.3\\microsoft.extensions.configuration.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\misamsonov\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.0.3\\microsoft.extensions.configuration.binder.3.0.3.nupkg.sha512",
+    "C:\\Users\\misamsonov\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.0.3\\microsoft.extensions.dependencyinjection.3.0.3.nupkg.sha512",
+    "C:\\Users\\misamsonov\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.3\\microsoft.extensions.dependencyinjection.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\misamsonov\\.nuget\\packages\\microsoft.extensions.http\\3.0.3\\microsoft.extensions.http.3.0.3.nupkg.sha512",
+    "C:\\Users\\misamsonov\\.nuget\\packages\\microsoft.extensions.logging\\3.0.3\\microsoft.extensions.logging.3.0.3.nupkg.sha512",
+    "C:\\Users\\misamsonov\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\misamsonov\\.nuget\\packages\\microsoft.extensions.options\\3.0.3\\microsoft.extensions.options.3.0.3.nupkg.sha512",
+    "C:\\Users\\misamsonov\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.3\\microsoft.extensions.primitives.3.0.3.nupkg.sha512",
+    "C:\\Users\\misamsonov\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\misamsonov\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\misamsonov\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\misamsonov\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\misamsonov\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
+    "C:\\Users\\misamsonov\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
   ],
   "logs": []
 }

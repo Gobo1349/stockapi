@@ -10,3 +10,6 @@ C:\Users\misamsonov\RiderProjects\EduStockApi\src\stockapi.Domain\obj\Debug\net6
 C:\Users\misamsonov\RiderProjects\EduStockApi\src\stockapi.Domain\obj\Debug\net6.0\refint\stockapi.Domain.dll
 C:\Users\misamsonov\RiderProjects\EduStockApi\src\stockapi.Domain\obj\Debug\net6.0\stockapi.Domain.pdb
 C:\Users\misamsonov\RiderProjects\EduStockApi\src\stockapi.Domain\obj\Debug\net6.0\ref\stockapi.Domain.dll
+C:\Users\misamsonov\RiderProjects\EduStockApi\src\stockapi.Domain\bin\Debug\net6.0\stockapi.HttpModels.dll
+C:\Users\misamsonov\RiderProjects\EduStockApi\src\stockapi.Domain\bin\Debug\net6.0\stockapi.HttpModels.pdb
+C:\Users\misamsonov\RiderProjects\EduStockApi\src\stockapi.Domain\obj\Debug\net6.0\stockapi.Domain.csproj.CopyComplete

@@ -1,4 +1,6 @@
 ﻿using System;
+using System.IO;
+using System.Reflection;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
@@ -33,6 +35,12 @@ public static class HostBuilderExtensions // расширения для бил�
             {
                 // инфа для сваггера - название и т д 
                 options.SwaggerDoc("v1", new OpenApiInfo { Title = "StockApi", Version = "v1" });
+                
+                // получаем путь к xml файлу, в котором написаны комменты для сваггера
+                var xmlFileName = Assembly.GetExecutingAssembly().GetName().Name + ".xml"; // получаем название нашей сборки - OzonEduStockApi и добавляем к нему .xml, получаем название файла
+                var xmlFilePath = Path.Combine(AppContext.BaseDirectory, xmlFileName); // получаем путь к файлу xml
+                
+                options.IncludeXmlComments(xmlFilePath); // добавляем настройку для комментариев 
             });
         }
         );

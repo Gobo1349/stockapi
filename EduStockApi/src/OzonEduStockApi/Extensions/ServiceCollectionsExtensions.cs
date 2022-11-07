@@ -26,25 +26,25 @@ public class Repo : IStockItemRepository
     public IUnitOfWork UnitOfWork { get; }
     public Task<StockItem> CreateAsync(StockItem stockItem, CancellationToken cancellationToken = default)
     {
-        //throw new Exception($"1111111");
-        throw new System.NotImplementedException();
+        throw new Exception($"CreateAsync");
+       // throw new System.NotImplementedException();
     }
 
     public Task<StockItem> UpdateAsync(StockItem stockItem, CancellationToken cancellationToken = default)
     {
-        //throw new Exception($"1111111");
-        throw new System.NotImplementedException();
+        throw new Exception($"UpdateAsync");
+       // throw new System.NotImplementedException();
     }
 
     public Task<StockItem> FindByIdAsync(Sku sku, CancellationToken cancellationToken = default)
     {
-        throw new Exception($"1111111");
+        throw new Exception($"FindByIdAsync");
        // throw new System.NotImplementedException();
     }
     
     public Task<StockItem> FindBySkuAsync(Sku sku, CancellationToken cancellationToken = default)
     {
-        throw new Exception($"1111111");
+        throw new Exception($"FindBySkuAsync");
         // throw new System.NotImplementedException();
     }
 

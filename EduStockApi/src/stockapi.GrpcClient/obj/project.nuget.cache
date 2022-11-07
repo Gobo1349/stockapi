@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "hET59L8FB/RKuQ664Z1mWC/ZbxZYafCXDsEJZeMs9L3KTHo3dhUNUbAu5JHokAwd085kgJb5w6jUgTZN2ZnlpA==",
+  "dgSpecHash": "4glaRWzX5u8M/DTm/7Hnj1+tBFoqGjHqRHz08U3k6xgbt71NC5EB0c9/7BWxQ+XBJEPwYtztdnz/fFaAVudn5g==",
   "success": true,
   "projectFilePath": "C:\\Users\\misamsonov\\RiderProjects\\EduStockApi\\src\\stockapi.GrpcClient\\stockapi.GrpcClient.csproj",
   "expectedPackageFiles": [
